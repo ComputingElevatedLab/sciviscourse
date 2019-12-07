@@ -4,11 +4,9 @@ title: Home
 permalink: /
 ---
 
-<center>
 | Days              | Time             | Location | Office hours |
 |-------------------|------------------|----------|--------------|
 | Monday, Wednesday | 4:35 PM-05:55 PM | WEB 1230 | TBD          |
-</center>
 
 ### Course Overview
 
