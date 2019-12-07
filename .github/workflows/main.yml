@@ -1,5 +1,5 @@
-- name: SSH Remote Commands
-  uses: appleboy/ssh-action@v0.0.6
+- name: deploy via ssh
+  uses: appleboy/ssh-action@master
   with:
     host: ${{ secrets.HOST }}
     username: ${{ secrets.USERNAME }}
