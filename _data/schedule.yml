@@ -1,0 +1,10 @@
+- name: Class introduction 
+  date: January 17
+  description: Introduction to this course, resources, schedule
+  image: ../images/galaxy.jpg
+
+- name: The visualization pipeline
+  date: January 19
+
+- name: Marching cube
+  date: January 22
