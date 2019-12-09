@@ -4,9 +4,53 @@ title: Home
 permalink: /
 ---
 
-| Days              | Time             | Location | Office hours |
-|:-----------------:|:----------------:|:--------:|:------------:|
-| Monday, Wednesday | 4:35 PM-05:55 PM | WEB 1230 | TBD          |
+<style>
+.card-title {
+  text-align: center;
+}
+
+.card-text {
+  text-align: center;
+}
+
+
+</style>
+
+<div class="row">
+  <div class="col-sm-3">
+    <div class="card">
+      <div class="card-body">
+        <h6 class="card-title">Days</h6>
+        <p class="card-text">Mon, Wed</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-3">
+    <div class="card">
+      <div class="card-body">
+        <h6 class="card-title">Time</h6>
+        <p class="card-text">4:35-05:55 PM </p>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-3">
+    <div class="card">
+      <div class="card-body">
+        <h6 class="card-title">Location</h6>
+        <p class="card-text">WEB 1230</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-3">
+    <div class="card">
+      <div class="card-body">
+        <h6 class="card-title">Office hours</h6>
+        <p class="card-text">TBD </p>
+      </div>
+    </div>
+  </div>
+</div>
+<br/>
 
 **Lecturers**: Dr. Valerio Pascucci and Dr. Steve Petruzza
 

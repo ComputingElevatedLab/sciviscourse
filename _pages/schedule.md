@@ -8,7 +8,6 @@ title: Schedule
 .card-text {
 	padding-top: 5px;
 }
-
 .inline-headers h5, .inline-headers h6 {
   display: inline-block;
   vertical-align: baseline;
