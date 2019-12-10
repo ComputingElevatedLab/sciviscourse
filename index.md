@@ -56,11 +56,26 @@ permalink: /
 
 **TA**: Nathan Morrical
 
-### Course Overview
+**Main Text**: Data Visualization: Principles and Practice, 2nd Edition by Alexandru C. Telea
 
-This course provides an introduction to Scientific Visualization techniques used for the effective presentation of data from a variety of disciplines including medicine, engineering, physics and biology. Students will learn about the use of fundamental approaches (color map selection, isocontouring, volume rendering, streamlines, etc…), as well as efficient algorithms for their computation. Special emphasis will be given to the correctness of the results provided, and the reliability of the insight provided to the users/scientists. In the study of visualization algorithms we will emphasize the selection of efficient data structures, complexity analysis, practical efficiency, and verification of the quality of the output generated. Successful completion of the course will enable the students pursuing new research directions in this field as well as applying the most recent visualization techniques for the presentation of data from simulations and experiments and aid the users in the science discovery process.
 
- 
-### Prerequisites 
+### Course Philosophy
 
-There are no formal prerequisites for this class. Students will be expected to have basic knowledge of geometric data structures and algorithmic techniques.
+Visualization is important to most areas of science, engineering, and medicine. Accordingly, students in this course have a variety of backgrounds, expertise, and needs. We will try to cover topics common to many areas of visualization, while at the same time, allowing individuals to learn specific techniques and/or applications via a visualization project. Scientific visualization can be approached from an abstract and/or from a practical perspective. In this course, we’ll focus on applications in science, engineering, and medicine, while at the same time learn some underlying theory.
+
+### Course Goals
+Upon completion of this course, the student should
+* know commonly used algorithms and techniques in scientific visualization,
+* have seen and discussed examples of visualization in a variety of fields,
+* be able to critique the effectiveness of a scientific visualization,
+* be able to efficiently use the ParaView scientific visualization software system,
+* know where to locate further visualization resources,
+* have been exposed to current research issues in scientific visualization, • have completed a project in scientific visualization.
+
+### Assignments
+There are two main types of assingments for this course. One is in the form of in between class homework that will primarily consist of using the ParaView visualization software system. The second will be in the form of a scientific visualization project. This project can be visualization of data you have collected from a simulation and/or experiment, development of a new software tool(s) for visualization, or a theoretical investigation of a topic in visualization. My goal is to supply the student with as close to real life applications as possible within the confines of a semester long class.
+Languages: While we will primarily use the ParaView visualization system, ParaView is built upon the Visualization Toolkit (vtk), which has versions in C++, Java, and Python. We expect students to be able to program in C++, Java, or Python for some assignments.
+
+### Grades
+Final course grades will be computed according to 80% Homework and 20% Final Project.
+Incompletes: As the project is due by the end of the semester, in past similar project-based courses, it has turned out that some people do not wisely schedule their time and do not finish their projects. They then want to take an incomplete and finish the project sometime in the summer. I only give incompletes very rarely and only for truly unusual circumstances (death in the family, etc.), so please work to finish your final project on time.

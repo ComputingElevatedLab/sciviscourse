@@ -1,10 +1,108 @@
 - name: Class introduction 
-  date: January 17
-  description: Introduction to this course, resources, schedule
-  image: ../images/galaxy.jpg
+  date: Monday, Jan 6   
+  description: Course logistics, overview of scientific visualization, the visualization pipeline
+  image: ../images/introscivis.jpg
 
-- name: The visualization pipeline
-  date: January 19
+- name: The scientific data model
+  date: Wednesday, Jan 8
 
-- name: Marching cube
-  date: January 22
+- name: Plotting multivariate data sets
+  date: Monday, Jan 13
+
+- name: Python matplotlib
+  date: Wednesday, Jan 15
+    
+- name: Martin Luther King Jr. Day Holiday
+  date: Monday, Jan 20
+  holiday: true
+
+- name: Introduction to ParaView and VTK
+  date: Wednesday, Jan 22
+
+- name: Visualization of scalar fields, 1D, 2D, colormaps
+  date: Monday, Jan 27
+
+- name: Surface visualization techniques, scalability
+  date: Wednesday, Jan 29
+
+- name: Isosurfaces, marchine cube
+  date: Monday, Feb 3
+
+- name: Acceleration structures
+  date: Wednesday, Feb 5
+
+- name: Computer graphics, primitives, shading
+  date: Monday, Feb 10
+
+- name: Rasterization, illumination
+  date: Wednesday, Feb 12
+
+- name: Presidents’ Day holiday
+  date: Monday, Feb 17
+  holiday: true
+
+- name: Volume rendering, compositing, modeling light, ray casting
+  date: Wednesday, Feb 19
+
+- name: Volume rendering 2
+  date: Monday, Feb 24
+
+- name: Vector field visualization
+  date: Wednesday, Feb 26
+
+- name: Vector field visualization 2
+  date: Monday, Mar 2
+
+- name: Tensor field visualization
+  date: Wednesday, Mar 4
+
+- name: Spring break
+  date: Monday, Mar 9
+  holiday: true
+
+- name: Spring break
+  date: Wednesday, Mar 11
+  holiday: true
+
+- name: Color, hue, lighting, perception
+  date: Monday, Mar 16
+
+- name: Color, hue, lighting, perception 2
+  date: Wednesday, Mar 18
+    
+- name: Virtual environments
+  date: Monday, Mar 23
+    
+- name: Virtual environments 2
+  date: Wednesday, Mar 25
+    
+- name: Uncertainty visualization
+  date: Monday, Mar 30
+    
+- name: Uncertainty visualization 2
+  date: Wednesday, Apr 1
+
+- name: Big data
+  date: Monday, Apr 6
+
+- name: Big data 2
+  date: Wednesday, Apr 8
+
+- name: Challenges
+  date: Monday, Apr 13
+
+- name: Challenges 2
+  date: Wednesday, Apr 15
+
+- name: 
+  date: Monday, Apr 20
+
+- name: 
+  date: Monday, Apr 22
+
+- name: 
+  date: Monday, Apr 27
+
+- name: Best Project Presentations
+  date: Monday, Apr 29
+

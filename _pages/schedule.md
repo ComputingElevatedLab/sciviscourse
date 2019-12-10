@@ -13,6 +13,18 @@ title: Schedule
   vertical-align: baseline;
   margin-bottom: 0rem;
 }
+.inline-headers-holiday h5, .inline-headers-holiday h6 {
+  display: inline-block;
+  vertical-align: baseline;
+  margin-bottom: 0rem;
+  color:green;
+  text-decoration: line-through;
+}
+.card-img {
+	width: 150px;
+	float: left;
+	padding-right: 30px;
+}
 </style>
 
 <div class="container">
@@ -21,25 +33,29 @@ title: Schedule
   <div class="notice notice-success">
   	<div class="card">
   	  <div class="card-header">
-        <span class="inline-headers">
-          <h6 class="card-subtitle mb-2 text-muted">{{ class.date }} &nbsp; </h6>
-          <h5 class="card-title">{{ class.name }}</h5></span>
-      </div>
-      <div class="row ">
-        <div class="col-md-4">
-            {% if class.image %}
-	           <img class="card-img" width="200" src="{{ class.image }}" >
-	        {% endif %}
-        </div>
-	      <div class="col-md-8 px-3">
-	        <div class="card-block px-3">
-		        {% if class.description %}
-		          <p class="card-text">{{ class.description}}</p>
+          <div class="row ">
+		      <div class="col-md-8 px-3">
+		      	{% if class.image %}
+		        <div class="col-md-4">
+			           <img class="card-img" src="{{ class.image }}" >
+		        </div>
 		        {% endif %}
-		    </div>
+		      	{% if class.holiday %}
+		          <span class="inline-headers-holiday">
+		        {% else %}
+		          <span class="inline-headers">
+		        {% endif %}
+		          <h6 class="card-subtitle mb-2 text-muted">{{ class.date }} &nbsp; </h6>
+                  <h5 class="card-title">{{ class.name }}</h5>
+                </span>
+                {% if class.description %}
+		          <p class="card-text">{{ class.description }}</p>
+		        {% endif %}
+		      </div>
+	        </div>
 	      </div>
-        </div>
       </div>
+      
   </div>
   {% endfor %}
 
