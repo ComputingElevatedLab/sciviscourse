@@ -9,13 +9,13 @@ title: Schedule
 	padding-top: 5px;
 }
 .inline-headers h5, .inline-headers h6 {
-  display: inline-block;
-  vertical-align: baseline;
+  /*display: inline-block;*/
+  vertical-align: middle;
   margin-bottom: 0rem;
 }
 .inline-headers-holiday h5, .inline-headers-holiday h6 {
-  display: inline-block;
-  vertical-align: baseline;
+  /*display: inline-block;*/
+  vertical-align: middle;
   margin-bottom: 0rem;
   color:green;
   text-decoration: line-through;
