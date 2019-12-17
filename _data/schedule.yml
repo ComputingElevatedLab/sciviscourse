@@ -17,7 +17,7 @@
     
 - name: Martin Luther King Jr. Day Holiday
   date: Monday, Jan 20
-  holiday: true
+  dayoff: true
 
 - name: Introduction to ParaView and VTK
   date: Wednesday, Jan 22
@@ -45,7 +45,7 @@
   date: Wednesday, Feb 12
   image: ../images/schedule/shadows.jpg
 
-- name: Presidents’ Day holiday
+- name: Presidents’ Day Holiday
   date: Monday, Feb 17
   holiday: true
 
@@ -71,11 +71,11 @@
 
 - name: Spring break
   date: Monday, Mar 9
-  holiday: true
+  dayoff: true
 
 - name: Spring break
   date: Wednesday, Mar 11
-  holiday: true
+  dayoff: true
 
 - name: Tensor field visualization
   date: Wednesday, Mar 16
@@ -118,7 +118,7 @@
 
 - name: Reading Day
   date: Wednesday, Apr 22
-  holiday: true
+  dayoff: true
 
 - name: Best Project Presentations
   date: Monday, Apr 27 (6.00 to 8.00 PM)
