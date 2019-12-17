@@ -70,7 +70,8 @@ Upon completion of this course, the student should
 * be able to critique the effectiveness of a scientific visualization,
 * be able to efficiently use the ParaView scientific visualization software system,
 * know where to locate further visualization resources,
-* have been exposed to current research issues in scientific visualization, • have completed a project in scientific visualization.
+* have been exposed to current research issues in scientific visualization
+* have completed a project in scientific visualization.
 
 ### Assignments
 There are two main types of assingments for this course. One is in the form of in between class homework that will primarily consist of using the ParaView visualization software system. The second will be in the form of a scientific visualization project. This project can be visualization of data you have collected from a simulation and/or experiment, development of a new software tool(s) for visualization, or a theoretical investigation of a topic in visualization. My goal is to supply the student with as close to real life applications as possible within the confines of a semester long class.
