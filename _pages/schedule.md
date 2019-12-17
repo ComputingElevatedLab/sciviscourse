@@ -18,7 +18,7 @@ title: Schedule
   vertical-align: middle;
   margin-bottom: 0rem;
   color:green;
-  text-decoration: line-through;
+  /*text-decoration: line-through;*/
 }
 .card-img {
 	width: 150px;
