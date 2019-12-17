@@ -16,6 +16,8 @@ permalink: /
 
 </style>
 
+<img src="images/2kbit1_0.jpg"/>
+
 <div class="row">
   <div class="col-sm-3">
     <div class="card">
