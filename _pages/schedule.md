@@ -13,7 +13,7 @@ title: Schedule
   vertical-align: middle;
   margin-bottom: 0rem;
 }
-.inline-headers-holiday h5, .inline-headers-holiday h6 {
+.inline-headers-dayoff h5, .inline-headers-dayoff h6 {
   /*display: inline-block;*/
   vertical-align: middle;
   margin-bottom: 0rem;
@@ -40,8 +40,8 @@ title: Schedule
 			           <img class="card-img" src="{{ class.image }}" >
 		        </div>
 		        {% endif %}
-		      	{% if class.holiday %}
-		          <span class="inline-headers-holiday">
+		      	{% if class.dayoff %}
+		          <span class="inline-headers-dayoff">
 		        {% else %}
 		          <span class="inline-headers">
 		        {% endif %}
