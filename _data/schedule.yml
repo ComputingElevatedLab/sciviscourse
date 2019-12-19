@@ -100,47 +100,48 @@
 
 - name: Tensor field visualization
   date: Wednesday, Mar 18
-  description: 
+  description: Tenson in engineering and medicine, diffusion tensor imageing, eigenvalues and eigenvectors, direct visualization methods.
   image: ../images/schedule/tensors.jpg
 
 - name: Tensor field visualization (2)
   date: Monday, Mar 23
-  description: 
+  description: Glyphs for tensors, ellypsoids vs superquadrics, color coding and lit-tensors.
 
 - name: Perception 1 
   date: Wednesday, Mar 25
-  description: Color, hue, lighting, limitations of human perception.
+  description: Cognitive neuroscience, optical illusions, the human visual system, Cornsweet Illusion.
   image: ../images/schedule/perception.jpg
 
 - name: Perception 2
   date: Monday, Mar 30
-  description: Visual illusions.
+  description: CIE Chromaticity Diagram, color spaces, color deficiencies, patterns, continuty, and closure.
     
 - name: Virtual environments
   date: Wednesday, Apr 1
-  description: 
+  description: The cave and other immersive enviroments, tasks benefiting from VR, applications in neurosicence and metrology.
   image: ../images/schedule/vrneurons.jpg
     
-- name: Uncertainty visualization
+- name: Uncertainty visualization (1)
   date: Monday, Apr 6
-  description: 
+  description: Visualization of error and uncertaintly, the boxplot and its modifications, topological uncertainty.
   image: ../images/schedule/uncertainty.jpg
     
 - name: Uncertainty visualization (2)
   date: Wednesday, Apr 8  
-  description: 
+  description: Isosurface uncertainty, volume rendering uncertainty, ensemble burved boxplot.  
 
-- name: Big data
+- name: Big data (1)
   date: Monday, Apr 13
-  description: 
+  description: The frou V's of big data, isosurfaces of big data, data layouts for visualization of big data experiemnts and simulations.
   image: ../images/schedule/bigdatatopo.jpg
 
 - name: Big data (2)
   date: Wednesday, Apr 15
-  description: 
+  description: multi-resolution data structures, parallel visualization, image compositing for volume rendering. 
 
-- name: Challenges
+- name: Visualization Research Challenges
   date: Monday, Apr 20
+  description: In situ analysis and visualization, post hoc data exploration, data quality, and data reduction,  
   image: ../images/schedule/challenges.jpg
 
 - name: Reading Day  (no class)
