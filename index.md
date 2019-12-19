@@ -65,16 +65,16 @@ permalink: /
 
 Visualization is important to most areas of science, engineering, and medicine. Accordingly, students in this course have a variety of backgrounds, expertise, and needs. We will try to cover topics common to many areas of visualization, while at the same time, allowing individuals to learn specific techniques and/or applications via a visualization project. Scientific visualization can be approached from an abstract and/or from a practical perspective. In this course, we’ll focus on applications in science, engineering, and medicine, while at the same time learn some underlying theory.
 
-### Course Goals
-Upon completion of this course, the student should
+### Learning outcomes
+Upon completion of CS 5635 / CS 6635, the student should:
 * know commonly used algorithms and techniques in scientific visualization,
-* have seen and discussed examples of visualization in a variety of fields,
+* have seen and discussed examples of visualization techniques and be able to apply them  in a variety of fields,
 * be able to critique the effectiveness of a scientific visualization,
 * be able to efficiently use the ParaView scientific visualization software system,
-* know where to locate further visualization resources,
-* have been exposed to current research issues in scientific visualization
-* have completed a project in scientific visualization.
-
+* know where to locate and use further visualization resources,
+* be knowledgable of current research challenges in scientific visualization and understand in which application they emerge,
+* have demonstrated the ability to complete a project in scientific visualization.  
+    
 ### Assignments
 There are two main types of assingments for this course. One is in the form of in between class homework that will primarily consist of using the ParaView visualization software system. The second will be in the form of a scientific visualization project. This project can be visualization of data you have collected from a simulation and/or experiment, development of a new software tool(s) for visualization, or a theoretical investigation of a topic in visualization. My goal is to supply the student with as close to real life applications as possible within the confines of a semester long class.
 Languages: While we will primarily use the ParaView visualization system, ParaView is built upon the Visualization Toolkit (vtk), which has versions in C++, Java, and Python. We expect students to be able to program in C++, Java, or Python for some assignments.
