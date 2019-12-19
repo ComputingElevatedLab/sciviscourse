@@ -26,48 +26,47 @@
   date: Monday, Jan 27
   image: ../images/schedule/scalarfield.jpg
 
-- name: "Visualization of scalar fields: isosurfaces, marchine cube"
+- name: Introduction to ViSUS
   date: Wednesday, Jan 29
-  image: ../images/schedule/isosurface.jpg
-
-- name: Surface visualization techniques, scalability, acceleration structures
-  date: Monday, Feb 3
-  image: ../images/schedule/kdtree.jpg
-
-- name: 
-  date: Wednesday, Feb 5
 
 - name: Computer graphics, primitives, shading
-  date: Monday, Feb 10
+  date: Monday, Feb 3
   image: ../images/schedule/primitives.jpg
 
 - name: Rasterization, illumination
-  date: Wednesday, Feb 12
+  date: Wednesday, Feb 5
   image: ../images/schedule/shadows.jpg
+
+- name: "Visualization of scalar fields: isosurfaces, marchine cube"
+  date: Monday, Feb 10
+  image: ../images/schedule/isosurface.jpg
+
+- name: Surface visualization techniques, scalability, acceleration structures
+  date: Wednesday, Feb 12
+  image: ../images/schedule/kdtree.jpg
 
 - name: Presidents’ Day Holiday
   date: Monday, Feb 17
   holiday: true
 
-- name: Volume rendering, compositing, modeling light, ray casting
+- name: Surface visualization techniques, scalability, acceleration structures (2)
   date: Wednesday, Feb 19
+
+- name: Volume rendering, compositing, modeling light, ray casting
+  date: Monday, Feb 24
   image: ../images/schedule/vrendering.jpg
 
 - name: "Volume rendering: transfer functions"
-  date: Monday, Feb 24
+  date: Wednesday, Feb 26
   image: ../images/schedule/transferfunction.jpg
 
 - name: Vector field visualization, flows, integration
-  date: Wednesday, Feb 26
+  date: Monday, Mar 2
   image: ../images/schedule/vectorfields.jpg
 
 - name: "Vector field visualization: streamlines, LIC"
-  date: Monday, Mar 2
-  image: ../images/schedule/streamlines.jpg
-
-- name: Flows
   date: Wednesday, Mar 4
-  image: ../images/schedule/flows.jpg
+  image: ../images/schedule/streamlines.jpg
 
 - name: Spring break
   date: Monday, Mar 9
@@ -77,44 +76,46 @@
   date: Wednesday, Mar 11
   dayoff: true
 
+- name: Flows
+  date: Monday, Mar 16
+  image: ../images/schedule/flows.jpg
+
 - name: Tensor field visualization
-  date: Wednesday, Mar 16
+  date: Wednesday, Mar 18
+  image: ../images/schedule/tensors.jpg
+
+- name: Tensor field visualization
+  date: Monday, Mar 23
   image: ../images/schedule/tensors.jpg
 
 - name: Perception, color, hue, lighting
-  date: Wednesday, Mar 18
+  date: Wednesday, Mar 25
   image: ../images/schedule/perception.jpg
 
 - name: TBD
-  date: Monday, Mar 23
-    
-- name: Virtual environments
-  date: Wednesday, Mar 25
-  image: ../images/schedule/vrneurons.jpg
-    
-- name: TBD
   date: Monday, Mar 30
     
-- name: Uncertainty visualization
+- name: Virtual environments
   date: Wednesday, Apr 1
+  image: ../images/schedule/vrneurons.jpg
+    
+- name: Uncertainty visualization
+  date: Monday, Apr 6
   image: ../images/schedule/uncertainty.jpg
     
-- name: TBD
-  date: Monday, Apr 6
+- name: Uncertainty visualization (2)
+  date: Wednesday, Apr 8  
 
 - name: Big data
-  date: Wednesday, Apr 8
+  date: Monday, Apr 13
   image: ../images/schedule/bigdatatopo.jpg
 
-- name: TBD
-  date: Monday, Apr 13
+- name: Big data (2)
+  date: Wednesday, Apr 15
 
 - name: Challenges
-  date: Wednesday, Apr 15
-  image: ../images/schedule/challenges.jpg
-
-- name: TBD
   date: Monday, Apr 20
+  image: ../images/schedule/challenges.jpg
 
 - name: Reading Day
   date: Wednesday, Apr 22
