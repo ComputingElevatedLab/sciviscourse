@@ -3,16 +3,19 @@
   description: Course logistics, overview of scientific visualization techniques, and the visualization pipeline.
   image: ../images/schedule/introscivis.jpg
 
-- name: The scientific data model: data types, meshes, and data structures.
+- name: The scientific data model
   date: Wednesday, Jan 8
+  description: Data types, meshes, and data structures.
   image: ../images/schedule/datamodel.jpg
 
 - name: Plotting multivariate data sets: Tufte’s principles, data tables, examples of plot types.
   date: Monday, Jan 13
+  description: 
   image: ../images/schedule/plotting.jpg
 
 - name: Python matplotlib: typical matplotlib program structure, displaying multiple plots, bar charts, pie charts, histograms, and scatter plots.    
   date: Wednesday, Jan 15
+  description: 
   image: ../images/schedule/matplotlib.jpg
     
 - name: Martin Luther King Jr. Day Holiday (no class)
@@ -24,6 +27,7 @@
 
 - name: Visualization of scalar fields: 1D/2D/3D scalar fields, color mapping, transfer functions, interpolation (linear and bilinear) , and 2D isocontour ambiguities. 
   date: Monday, Jan 27
+  description: 
   image: ../images/schedule/scalarfield.jpg
 
 - name: Introduction to ViSUS.
@@ -31,18 +35,22 @@
 
 - name: Computer graphics, primitives, shading
   date: Monday, Feb 3
+  description: 
   image: ../images/schedule/primitives.jpg
 
 - name: Rasterization, illumination
   date: Wednesday, Feb 5
+  description: 
   image: ../images/schedule/shadows.jpg
 
 - name: "Visualization of scalar fields: isosurfaces, marchine cube"
   date: Monday, Feb 10
+  description: 
   image: ../images/schedule/isosurface.jpg
 
 - name: Surface visualization techniques, scalability, acceleration structures
   date: Wednesday, Feb 12
+  description: 
   image: ../images/schedule/kdtree.jpg
 
 - name: Presidents’ Day Holiday
@@ -51,72 +59,89 @@
 
 - name: Surface visualization techniques, scalability, acceleration structures (2)
   date: Wednesday, Feb 19
+  description: 
 
 - name: Volume rendering, compositing, modeling light, ray casting
   date: Monday, Feb 24
+  description: 
   image: ../images/schedule/vrendering.jpg
 
 - name: "Volume rendering: transfer functions"
   date: Wednesday, Feb 26
+  description: 
   image: ../images/schedule/transferfunction.jpg
 
 - name: Vector field visualization, flows, integration
   date: Monday, Mar 2
+  description: 
   image: ../images/schedule/vectorfields.jpg
 
 - name: "Vector field visualization: streamlines, LIC"
   date: Wednesday, Mar 4
+  description: 
   image: ../images/schedule/streamlines.jpg
 
 - name: Spring break
   date: Monday, Mar 9
+  description: 
   dayoff: true
 
 - name: Spring break
   date: Wednesday, Mar 11
+  description: 
   dayoff: true
 
 - name: Flows
   date: Monday, Mar 16
+  description: 
   image: ../images/schedule/flows.jpg
 
 - name: Tensor field visualization
   date: Wednesday, Mar 18
+  description: 
   image: ../images/schedule/tensors.jpg
 
 - name: Tensor field visualization (2)
   date: Monday, Mar 23
+  description: 
 
 - name: Perception, color, hue, lighting
   date: Wednesday, Mar 25
+  description: 
   image: ../images/schedule/perception.jpg
 
 - name: TBD
   date: Monday, Mar 30
+  description: 
     
 - name: Virtual environments
   date: Wednesday, Apr 1
+  description: 
   image: ../images/schedule/vrneurons.jpg
     
 - name: Uncertainty visualization
   date: Monday, Apr 6
+  description: 
   image: ../images/schedule/uncertainty.jpg
     
 - name: Uncertainty visualization (2)
   date: Wednesday, Apr 8  
+  description: 
 
 - name: Big data
   date: Monday, Apr 13
+  description: 
   image: ../images/schedule/bigdatatopo.jpg
 
 - name: Big data (2)
   date: Wednesday, Apr 15
+  description: 
 
 - name: Challenges
   date: Monday, Apr 20
   image: ../images/schedule/challenges.jpg
 
-- name: Reading Day
+- name: Reading Day  (no class)
   date: Wednesday, Apr 22
   dayoff: true
 
