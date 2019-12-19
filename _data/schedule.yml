@@ -1,32 +1,32 @@
 - name: Class introduction 
   date: Monday, Jan 6   
-  description: Course logistics, overview of scientific visualization, the visualization pipeline
+  description: Course logistics, overview of scientific visualization techniques, and the visualization pipeline.
   image: ../images/schedule/introscivis.jpg
 
-- name: The scientific data model
+- name: The scientific data model: data types, meshes, and data structures.
   date: Wednesday, Jan 8
   image: ../images/schedule/datamodel.jpg
 
-- name: Plotting multivariate data sets
+- name: Plotting multivariate data sets: Tufte’s principles, data tables, examples of plot types.
   date: Monday, Jan 13
   image: ../images/schedule/plotting.jpg
 
-- name: Python matplotlib
+- name: Python matplotlib: typical matplotlib program structure, displaying multiple plots, bar charts, pie charts, histograms, and scatter plots.    
   date: Wednesday, Jan 15
   image: ../images/schedule/matplotlib.jpg
     
-- name: Martin Luther King Jr. Day Holiday
+- name: Martin Luther King Jr. Day Holiday (no class)
   date: Monday, Jan 20
   dayoff: true
 
-- name: Introduction to ParaView and VTK
+- name: Introduction to ParaView and VTK.
   date: Wednesday, Jan 22
 
-- name: Visualization of scalar fields, 1D, 2D, colormaps
+- name: Visualization of scalar fields: 1D/2D/3D scalar fields, color mapping, transfer functions, interpolation (linear and bilinear) , and 2D isocontour ambiguities. 
   date: Monday, Jan 27
   image: ../images/schedule/scalarfield.jpg
 
-- name: Introduction to ViSUS
+- name: Introduction to ViSUS.
   date: Wednesday, Jan 29
 
 - name: Computer graphics, primitives, shading
