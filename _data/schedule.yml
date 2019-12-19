@@ -18,8 +18,9 @@
   description: Typical matplotlib program structure, displaying multiple plots, bar charts, pie charts, histograms, and scatter plots.    
   image: ../images/schedule/matplotlib.jpg
     
-- name: Martin Luther King Jr. Day Holiday (no class)
+- name: Martin Luther King Jr. Day Holiday 
   date: Monday, Jan 20
+  description: No class.
   dayoff: true
 
 - name: Introduction to ParaView and VTK.
@@ -55,6 +56,7 @@
 
 - name: Presidents’ Day Holiday
   date: Monday, Feb 17
+  description: No class.
   holiday: true
 
 - name: Surface visualization techniques, scalability, acceleration structures (2)
@@ -83,12 +85,12 @@
 
 - name: Spring break
   date: Monday, Mar 9
-  description: 
+  description: No class.
   dayoff: true
 
 - name: Spring break
   date: Wednesday, Mar 11
-  description: 
+  description: No class.
   dayoff: true
 
 - name: Flows
@@ -105,14 +107,14 @@
   date: Monday, Mar 23
   description: 
 
-- name: Perception, color, hue, lighting
+- name: Perception 1 
   date: Wednesday, Mar 25
-  description: 
+  description: Color, hue, lighting, limitations of human perception.
   image: ../images/schedule/perception.jpg
 
-- name: TBD
+- name: Perception 2
   date: Monday, Mar 30
-  description: 
+  description: Visual illusions.
     
 - name: Virtual environments
   date: Wednesday, Apr 1
