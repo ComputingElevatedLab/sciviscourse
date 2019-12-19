@@ -26,7 +26,7 @@
 - name: Introduction to ParaView and VTK.
   date: Wednesday, Jan 22
 
-- name: Visualization of scalar fields 
+- name: Visualization of 2D scalar fields 
   date: Monday, Jan 27
   description: 1D/2D/3D scalar fields, color mapping, transfer functions, interpolation (linear and bilinear) , and 2D isocontour ambiguities. 
   image: ../images/schedule/scalarfield.jpg
@@ -34,24 +34,24 @@
 - name: Introduction to ViSUS.
   date: Wednesday, Jan 29
 
-- name: Computer graphics, primitives, shading
+- name: Computer Graphics Techniques for Scintific Visualization (1)
   date: Monday, Feb 3
-  description: 
+  description: Rendering primitives, shading, orthographic vs. perspective projections
   image: ../images/schedule/primitives.jpg
 
-- name: Rasterization, illumination
+- name: Computer Graphics Techniques for Scintific Visualization (2)
   date: Wednesday, Feb 5
-  description: 
+  description: Rasterization, illumination, non-photorealistic rendering.
   image: ../images/schedule/shadows.jpg
 
-- name: "Visualization of scalar fields: isosurfaces, marchine cube"
+- name: Visualization of 3D scalar fields (1)
   date: Monday, Feb 10
-  description: 
+  description: Computation of isosurfaces, the marchine cube algorithm, trilinear interpolation, resolution of ambiguities.
   image: ../images/schedule/isosurface.jpg
 
-- name: Surface visualization techniques, scalability, acceleration structures
+- name: Visualization of 3D scalar fields (2)
   date: Wednesday, Feb 12
-  description: 
+  description: Isosurface computation for tetrahedral meshes, mesh qaulity, optimal computation with range queries and seed sets.  
   image: ../images/schedule/kdtree.jpg
 
 - name: Presidents’ Day Holiday
@@ -59,28 +59,28 @@
   description: No class.
   holiday: true
 
-- name: Surface visualization techniques, scalability, acceleration structures (2)
+- name: Visualization of 3D scalar fields (2)
   date: Wednesday, Feb 19
-  description: 
+  description: Advanced surface visualization, scalability, acceleration data structures, view dependent data reduction.
 
-- name: Volume rendering, compositing, modeling light, ray casting
+- name: Direct Volume Rendering (1)
   date: Monday, Feb 24
-  description: 
+  description: Volume rendering, compositing, modeling light, ray casting.
   image: ../images/schedule/vrendering.jpg
 
-- name: "Volume rendering: transfer functions"
+- name: Direct Volume Rendering (2)
   date: Wednesday, Feb 26
-  description: 
+  description: Transfer functions for 3D data, volume classification, multi-dimensional transefer functions.
   image: ../images/schedule/transferfunction.jpg
 
-- name: Vector field visualization, flows, integration
+- name: Vector field visualization (1) 
   date: Monday, Mar 2
-  description: 
+  description: Introduction to vector fields, 2D vector field representation, integration methods, 4th order Runge-Kutta method.
   image: ../images/schedule/vectorfields.jpg
 
-- name: "Vector field visualization: streamlines, LIC"
+- name: Vector field visualization (2) 
   date: Wednesday, Mar 4
-  description: 
+  description: Seeding streamlines , Line Integral of Convolution (LIC), 3D LIC, illumination and depth cues.
   image: ../images/schedule/streamlines.jpg
 
 - name: Spring break
@@ -93,9 +93,9 @@
   description: No class.
   dayoff: true
 
-- name: Flows
+- name: Vector field visualization (3) 
   date: Monday, Mar 16
-  description: 
+  description: Streamlines vs streaklines vs pathlines, critical points, topological skeleton, 
   image: ../images/schedule/flows.jpg
 
 - name: Tensor field visualization
