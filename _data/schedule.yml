@@ -8,14 +8,14 @@
   description: Data types, meshes, and data structures.
   image: ../images/schedule/datamodel.jpg
 
-- name: Plotting multivariate data sets: Tufte’s principles, data tables, examples of plot types.
+- name: Plotting multivariate data sets
   date: Monday, Jan 13
-  description: 
+  description: Tufte’s principles, data tables, examples of plot types.
   image: ../images/schedule/plotting.jpg
 
-- name: Python matplotlib: typical matplotlib program structure, displaying multiple plots, bar charts, pie charts, histograms, and scatter plots.    
+- name: Python matplotlib
   date: Wednesday, Jan 15
-  description: 
+  description: Typical matplotlib program structure, displaying multiple plots, bar charts, pie charts, histograms, and scatter plots.    
   image: ../images/schedule/matplotlib.jpg
     
 - name: Martin Luther King Jr. Day Holiday (no class)
@@ -25,9 +25,9 @@
 - name: Introduction to ParaView and VTK.
   date: Wednesday, Jan 22
 
-- name: Visualization of scalar fields: 1D/2D/3D scalar fields, color mapping, transfer functions, interpolation (linear and bilinear) , and 2D isocontour ambiguities. 
+- name: Visualization of scalar fields 
   date: Monday, Jan 27
-  description: 
+  description: 1D/2D/3D scalar fields, color mapping, transfer functions, interpolation (linear and bilinear) , and 2D isocontour ambiguities. 
   image: ../images/schedule/scalarfield.jpg
 
 - name: Introduction to ViSUS.
