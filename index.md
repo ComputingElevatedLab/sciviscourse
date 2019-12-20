@@ -78,11 +78,11 @@ we’ll focus on applications in science, engineering, and medicine, while at th
 * have demonstrated the ability to define and execute a project in scientific visualization. 
     
 ### Assignments
-There are two main types of assingments for this course. One is in the form of in between class homework that will primarily 
+There are two main types of assignments for this course. One is in the form of in between class homework that will primarily 
 consist of using the [ParaView](https://www.paraview.org/) and [OpenViSUS](https://visus.org/) visualization software systems. 
-The second will be in the form of a scientific visualization project. This project can be visualization of data you have collected 
+The second will be in the form of a scientific visualization project. This project can be a visualization of data you have collected 
 from a simulation and/or experiment, development of a new software tool(s) for visualization, or a theoretical investigation 
-of a topic in visualization. The goal is to supply the student with a hands on exprience that is as close to real life 
+of a topic in visualization. The goal is to supply the student with a hands on experience that is as close to real life 
 applications as possible within the confines of a semester long class.
 Languages: While we will primarily use the ParaView and OpenViSUS visualization systems, ParaView is built upon the 
 Visualization Toolkit (vtk), which has versions in C++, Java, and Python, while OpenViSUS has versions in C++, and Python. 
