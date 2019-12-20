@@ -70,7 +70,7 @@
 
 - name: Direct Volume Rendering (2)
   date: Wednesday, Feb 26
-  description: Transfer functions for 3D data, volume classification, multi-dimensional transefer functions.
+  description: Transfer functions for 3D data, volume classification, multi-dimensional transfer functions.
   image: ../images/schedule/transferfunction.jpg
 
 - name: Vector field visualization (1) 
