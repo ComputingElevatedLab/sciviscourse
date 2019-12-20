@@ -34,12 +34,12 @@
 - name: Introduction to ViSUS.
   date: Wednesday, Jan 29
 
-- name: Computer Graphics Techniques for Scintific Visualization (1)
+- name: Computer Graphics Techniques for Scientific Visualization (1)
   date: Monday, Feb 3
   description: Rendering primitives, shading, orthographic vs. perspective projections
   image: ../images/schedule/primitives.jpg
 
-- name: Computer Graphics Techniques for Scintific Visualization (2)
+- name: Computer Graphics Techniques for Scientific Visualization (2)
   date: Wednesday, Feb 5
   description: Rasterization, illumination, non-photorealistic rendering.
   image: ../images/schedule/shadows.jpg
@@ -51,7 +51,7 @@
 
 - name: Visualization of 3D scalar fields (2)
   date: Wednesday, Feb 12
-  description: Isosurface computation for tetrahedral meshes, mesh qaulity, optimal computation with range queries and seed sets.  
+  description: Isosurface computation for tetrahedral meshes, mesh quality, optimal computation with range queries and seed sets.  
   image: ../images/schedule/kdtree.jpg
 
 - name: Presidents’ Day Holiday
@@ -118,7 +118,7 @@
     
 - name: Virtual environments
   date: Wednesday, Apr 1
-  description: The cave and other immersive enviroments, tasks benefiting from VR, applications in neurosicence and metrology.
+  description: The cave and other immersive enviroments, tasks benefiting from VR, applications in neuroscience and metrology.
   image: ../images/schedule/vrneurons.jpg
     
 - name: Uncertainty visualization (1)
@@ -128,7 +128,7 @@
     
 - name: Uncertainty visualization (2)
   date: Wednesday, Apr 8  
-  description: Isosurface uncertainty, volume rendering uncertainty, ensemble burved boxplot.  
+  description: Isosurface uncertainty, volume rendering uncertainty, ensemble curved boxplot.  
 
 - name: Big data (1)
   date: Monday, Apr 13
