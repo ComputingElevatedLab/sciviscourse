@@ -26,7 +26,7 @@ title: Schedule
 	padding-right: 30px;
 }
 </style>
-           <img src="images/2kbit1_0.jpg"/>
+           <img src="../images/2kbit1_0.jpg"/>
 <div class="container">
 
   {% for class in site.data.schedule %}
