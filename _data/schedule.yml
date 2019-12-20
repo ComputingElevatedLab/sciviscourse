@@ -132,7 +132,7 @@
 
 - name: Big data (1)
   date: Monday, Apr 13
-  description: The frou V's of big data, isosurfaces of big data, data layouts for visualization of big data experiemnts and simulations.
+  description: The four V's of big data, isosurfaces of big data, data layouts for visualization of big data experiemnts and simulations.
   image: ../images/schedule/bigdatatopo.jpg
 
 - name: Big data (2)
