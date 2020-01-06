@@ -103,7 +103,7 @@ In homeworks you must not use code provided on the internet except when explicit
 
 You are free to use general purpose frameworks or libraries (e.g., matplotlib, numpy, pandas etc.) and acknowledge them with proper citation and provide a link to the source. 
 
-We will use both manual and automatic methods to check your submissions for plagiarism and will also check against online sources and submissions from previous years. For details on the policy, please refer to the [School of Computing Cheating Policy] (https://www.cs.utah.edu/wp-content/uploads/2014/12/cheating_policy.pdf). Plagiarism will lead to a failing grade in this course, two such infractions will lead to a ban on all CS programs.
+We will use both manual and automatic methods to check your submissions for plagiarism and will also check against online sources and submissions from previous years. For details on the policy, please refer to the [School of Computing Cheating Policy](https://www.cs.utah.edu/wp-content/uploads/2014/12/cheating_policy.pdf). Plagiarism will lead to a failing grade in this course, two such infractions will lead to a ban on all CS programs.
 
 #### Missed Activities and Assignment Deadlines
 All submissions related to projects must be turned in on time. Homeworks are subject to the late day policy stated below. In case of an extenuating circumstance, such as a medical condition, we will ask you to provide documentation directly issued by the University, and we will try to work out an agreeable solution with you (and your team).
