@@ -21,7 +21,7 @@ Project progress report **due TBD**
 
 Final project write up is **due TBD** 
 
-Top project presentations will be on **TBD**
+Project presentations will be on **TBD**
 
 On **TBD**, you will create your 2-3 person project teams.
 
@@ -30,9 +30,7 @@ On **TBD** your project design report is due. This should be a well thought out,
 On **TBD** your project progress report is due. This report should contain a description of how much of your project is completed at this point and what still remains to be done. This is the time to make modifications (which you must justify) and present a timeline for completion of the project. See below for details about the project progress report.
 
 On **TBD** your final project report is due. See below for details on writing your final project.
-In grading the projects, I will be looking for a well-designed, substantial, interesting project. Furthermore, your implementation, content and style of the final results should be of high quality. A final criteria for grading is that the progress report and final report are handed in on time.
-Tushar, Feng, and I will choose the top visualization projects and these projects will be presented in the final class on **TBD**.
-
+In grading the projects, we will be looking for a well-designed, substantial, interesting project. Furthermore, your implementation, content and style of the final results should be of high quality. A final criteria for grading is that the progress report and final report are handed in on time.
 
 ## Project Design Report
 
@@ -60,7 +58,7 @@ Student Name(s): Project title:
 * Any additional information?
 
 ## Project Final Report
-You will be required to hand in your Project Final Report on April 19. Your final report should
+You will be required to hand in your Project Final Report on **TBD**. Your final report should
 contain the following information.
 team Names: Project title:
 * Overview and goals of your project.
