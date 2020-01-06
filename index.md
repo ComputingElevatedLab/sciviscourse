@@ -104,5 +104,5 @@ so please plan carefully and work to finish your final project on time.
 5. High Performance Visualization: Enabling Extreme-Scale Scientific Insight, E. Wes Bethel, Hank Childs, Charles Hansen. CRC Press, 2012.
 6. IEEE Visualization Conference [ieeevis.org](ieeevis.org).
 7. Large Data Analysis and Visualization Symposium [http://ldav.org/](http://ldav.org/).
-8. EuroVis Conference www.eurovis2018.org.
-9. Pacific Visualization Conference www.pvis.org.
+8. EuroVis Conference [www.eurovis2018.org](http://www.eurovis2018.org).
+9. Pacific Visualization Conference [www.pvis.org](http://www.pvis.org).
