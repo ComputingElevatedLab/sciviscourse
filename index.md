@@ -56,7 +56,7 @@ permalink: /
 
 **Lecturers**: Dr. Valerio Pascucci and Dr. Steve Petruzza
 
-**TA**: Nathan Morrical
+**TM**: Nathan Morrical, Aniketh Venkat
 
 **Main Text**: [Data Visualization: Principles and Practice, 2nd Edition by Alexandru C. Telea](https://www.amazon.com/Data-Visualization-Principles-Practice-Second-ebook-dp-B00MMOJ314/dp/B00MMOJ314/ref=mt_kindle?_encoding=UTF8&me=&qid=)
 
