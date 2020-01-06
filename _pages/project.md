@@ -48,7 +48,7 @@ following information.
 * Any other useful information?
 
 ## Project Progress Report
-Please hand in your Project Progress Report by March 29 or sooner. It should contain the
+Please hand in your Project Progress Report by **TBD** or sooner. It should contain the
 following information.
 Student Name(s): Project title:
 * Estimate the percentage of the overall project you have completed thus far.
