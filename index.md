@@ -136,11 +136,12 @@ This course website, and all original content provided as part of this course is
 
 ### References
 1. The ParaView Guide: A Parallel Visualization Application, U. Ayachit, Kitware Press, 2015.
-2. Scientific Visualization: Uncertainty, Multifield, Biomedical, and Scalable Visualization, C.D. Hansen, M. Chen, C.R. Johnson, A.E. Kaufman, H. Hagen (Eds.). Mathematics and Visualization, Springer, 2014. ISBN: 978-1-4471-6496-8 
-3. The Visualization Toolkit: An Object Oriented Approach to 3D Graphics, W. Schroeder, K. Martin, and B. Lorensen, Prentice Hall Press, 4th Edition, 2006. You can get a free PDF version of the book from [https://www.vtk.org/vtk-textbook/](https://www.vtk.org/vtk-textbook/).
-4. The Visualization Handbook, C.D. Hansen and C.R. Johnson, Elsevier, 2005. ISBN: 0-12- 387582-X
-5. High Performance Visualization: Enabling Extreme-Scale Scientific Insight, E. Wes Bethel, Hank Childs, Charles Hansen. CRC Press, 2012.
-6. IEEE Visualization Conference [ieeevis.org](ieeevis.org).
-7. Large Data Analysis and Visualization Symposium [http://ldav.org/](http://ldav.org/).
-8. EuroVis Conference [www.eurovis2018.org](http://www.eurovis2018.org).
-9. Pacific Visualization Conference [www.pvis.org](http://www.pvis.org).
+2. OpenVisus [visus.org](https://www.visus.org).
+3. Scientific Visualization: Uncertainty, Multifield, Biomedical, and Scalable Visualization, C.D. Hansen, M. Chen, C.R. Johnson, A.E. Kaufman, H. Hagen (Eds.). Mathematics and Visualization, Springer, 2014. ISBN: 978-1-4471-6496-8 
+4. The Visualization Toolkit: An Object Oriented Approach to 3D Graphics, W. Schroeder, K. Martin, and B. Lorensen, Prentice Hall Press, 4th Edition, 2006. You can get a free PDF version of the book from [https://www.vtk.org/vtk-textbook/](https://www.vtk.org/vtk-textbook/).
+5. The Visualization Handbook, C.D. Hansen and C.R. Johnson, Elsevier, 2005. ISBN: 0-12- 387582-X
+6. High Performance Visualization: Enabling Extreme-Scale Scientific Insight, E. Wes Bethel, Hank Childs, Charles Hansen. CRC Press, 2012.
+7. IEEE Visualization Conference [ieeevis.org](ieeevis.org).
+8. Large Data Analysis and Visualization Symposium [http://ldav.org/](http://ldav.org/).
+9. EuroVis Conference [www.eurovis2018.org](http://www.eurovis2018.org).
+10. Pacific Visualization Conference [www.pvis.org](http://www.pvis.org).
