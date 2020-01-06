@@ -10,7 +10,7 @@
 
 - name: Plotting multivariate data sets
   date: Monday, Jan 13
-  description: Tufte’s principles, data tables, examples of plot types.
+  description: "Tufte's principles, data tables, examples of plot types."
   image: ../images/schedule/plotting.jpg
 
 - name: Python matplotlib
@@ -25,6 +25,7 @@
 
 - name: Introduction to ParaView and VTK.
   date: Wednesday, Jan 22
+  image: ../images/schedule/paraview.jpg
 
 - name: Visualization of 2D scalar fields 
   date: Monday, Jan 27
@@ -33,6 +34,8 @@
 
 - name: Introduction to ViSUS.
   date: Wednesday, Jan 29
+  image: ../images/schedule/visus.jpg
+  description: Multi-resolution data formats, data streaming model, interactive analysis and visualization of large scientific data.
 
 - name: Computer Graphics Techniques for Scientific Visualization (1)
   date: Monday, Feb 3
@@ -47,12 +50,12 @@
 - name: Visualization of 3D scalar fields (1)
   date: Monday, Feb 10
   description: Computation of isosurfaces, the marchine cube algorithm, trilinear interpolation, resolution of ambiguities.
-  image: ../images/schedule/isosurface.jpg
+  image: ../images/schedule/isosurf.jpg
 
 - name: Visualization of 3D scalar fields (2)
   date: Wednesday, Feb 12
   description: Isosurface computation for tetrahedral meshes, mesh quality, optimal computation with range queries and seed sets.  
-  image: ../images/schedule/kdtree.jpg
+  image: ../images/schedule/isosurface.jpg
 
 - name: Presidents’ Day Holiday
   date: Monday, Feb 17
@@ -62,6 +65,7 @@
 - name: Visualization of 3D scalar fields (2)
   date: Wednesday, Feb 19
   description: Advanced surface visualization, scalability, acceleration data structures, view dependent data reduction.
+  image: ../images/schedule/kdtree.jpg
 
 - name: Direct Volume Rendering (1)
   date: Monday, Feb 24
@@ -106,6 +110,7 @@
 - name: Tensor field visualization (2)
   date: Monday, Mar 23
   description: Glyphs for tensors, ellypsoids vs superquadrics, color coding and lit-tensors.
+  image: ../images/schedule/tensors2.jpg
 
 - name: Perception 1 
   date: Wednesday, Mar 25
@@ -115,6 +120,7 @@
 - name: Perception 2
   date: Monday, Mar 30
   description: CIE Chromaticity Diagram, color spaces, color deficiencies, patterns, continuty, and closure.
+  image: ../images/schedule/cie.jpg
     
 - name: Virtual environments
   date: Wednesday, Apr 1
@@ -124,11 +130,12 @@
 - name: Uncertainty visualization (1)
   date: Monday, Apr 6
   description: Visualization of error and uncertaintly, the boxplot and its modifications, topological uncertainty.
-  image: ../images/schedule/uncertainty.jpg
+  image: ../images/schedule/uncertainty1.jpg
     
 - name: Uncertainty visualization (2)
   date: Wednesday, Apr 8  
   description: Isosurface uncertainty, volume rendering uncertainty, ensemble curved boxplot.  
+  image: ../images/schedule/uncertainty.jpg
 
 - name: Big data (1)
   date: Monday, Apr 13
@@ -138,6 +145,7 @@
 - name: Big data (2)
   date: Wednesday, Apr 15
   description: Multi-resolution data structures, parallel visualization, image compositing for volume rendering. 
+  image: ../images/schedule/bigdata2.jpg
 
 - name: Visualization Research Challenges
   date: Monday, Apr 20
