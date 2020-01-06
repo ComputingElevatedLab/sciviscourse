@@ -9,8 +9,7 @@ title: Project
 Your scientific visualization project can be (1) from simulation and/or experimental data you have or (2) development of new software tools or extending existing software tools.
 It is your responsibility to pitch your project at the appropriate level. Challenge, but do not exhaust, yourself. Please ensure that even if you underestimate the difficulty of your project, you will have something to hand in by the due date (choosing too difficult a project is not a valid reason for an incomplete).
 
-### Project Team
-You will work together with 2-3 classmates. You can create your own teams or I can help form a team based upon input from the questionnaire or if need be, we can choose the team randomly. I understand that individual schedules and other constraints may limit your ability to work closely on a team. If this is the case, you can ask permission to do an individual project.
+You will work together with 2-3 classmates. You can create your own teams or we can help form a team. 
 
 ### Due dates
 Project team created **due TBD** 
