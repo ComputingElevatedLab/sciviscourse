@@ -1,21 +1,21 @@
 - name: Class introduction 
   date: Monday, Jan 6   
-  description: Course logistics, overview of scientific visualization techniques, and the visualization pipeline.
+  description: Course logistics, overview of scientific visualization techniques.
   image: ../images/schedule/introscivis.jpg
 
-- name: The scientific data model
+- name: The visualization pipeline (chapter 4)
   date: Wednesday, Jan 8
-  description: Data types, meshes, and data structures.
+  description: The visualization pipeline.
   image: ../images/schedule/datamodel.jpg
 
-- name: Plotting multivariate data sets
+- name: The scientific data model (chapter 3)
   date: Monday, Jan 13
-  description: "Tufte's principles, data tables, examples of plot types."
+  description: Data types, meshes, and data structures.
   image: ../images/schedule/plotting.jpg
 
-- name: Python matplotlib
+- name: Plotting data
   date: Wednesday, Jan 15
-  description: Typical matplotlib program structure, displaying multiple plots, bar charts, pie charts, histograms, and scatter plots.    
+  description: "Tufte's principles, data tables, examples of plot types. Typical matplotlib program structure, displaying multiple plots, bar charts, pie charts, histograms, and scatter plots."   
   image: ../images/schedule/matplotlib.jpg
     
 - name: Martin Luther King Jr. Day Holiday 
