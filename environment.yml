@@ -1,0 +1,8 @@
+name: visus-environment
+channels:
+  - conda-forge
+  - visus
+dependencies:
+  - numpy
+  - matplotlib
+  - OpenVisus
