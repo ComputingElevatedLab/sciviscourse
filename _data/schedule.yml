@@ -32,10 +32,10 @@
   description: 1D/2D/3D scalar fields, color mapping, transfer functions, interpolation (linear and bilinear) , and 2D isocontour ambiguities. 
   image: ../images/schedule/scalarfield.jpg
 
-- name: Introduction to ViSUS.
+- name: Introduction to OpenViSUS.
   date: Wednesday, Jan 29
   image: ../images/schedule/visus.jpg
-  description: Multi-resolution data formats, data streaming model, interactive analysis and visualization of large scientific data.
+  description: Multi-resolution data formats, data streaming model, interactive analysis and visualization of large scientific data. [Live tutorial](https://hub.gke.mybinder.org/user/spetruzza-sciviscourse-oyjerk7x/notebooks/jupyter/OpenVisus-Tutorial.ipynb)
 
 - name: Computer Graphics Techniques for Scientific Visualization (1)
   date: Monday, Feb 3
