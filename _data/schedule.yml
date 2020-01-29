@@ -35,7 +35,7 @@
 - name: Introduction to OpenViSUS.
   date: Wednesday, Jan 29
   image: ../images/schedule/visus.jpg
-  description: Multi-resolution data formats, data streaming model, interactive analysis and visualization of large scientific data. [Live tutorial](https://hub.gke.mybinder.org/user/spetruzza-sciviscourse-3mx6ofwv/notebooks/jupyter/OpenVisus-Tutorial.ipynb)
+  description: Multi-resolution data formats, data streaming model, interactive analysis and visualization of large scientific data. <a href="https://hub.gke.mybinder.org/user/spetruzza-sciviscourse-3mx6ofwv/notebooks/jupyter/OpenVisus-Tutorial.ipynb">[Live tutorial]</a>
 
 - name: Computer Graphics Techniques for Scientific Visualization (1)
   date: Monday, Feb 3
