@@ -6,7 +6,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: deploy_ssh
-      - uses: garygrossgarten/github-action-ssh@release
+        uses: garygrossgarten/github-action-ssh@release
         with:
           command: ~/deploy_sciviscourse
           host: ${{ secrets.HOST }}
