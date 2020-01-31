@@ -11,5 +11,5 @@ jobs:
           command: ~/deploy_sciviscourse
           host: ${{ secrets.HOST }}
           username: ${{ secrets.USERNAME }}
-          privateKey: ${{ secrets.KEY }}
+          password: ${{ secrets.PASSWORD }}
     
