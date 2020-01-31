@@ -5,11 +5,11 @@ jobs:
     name: Build
     runs-on: ubuntu-latest
     steps:
-    - name: deploy via ssh
-      uses: appleboy/ssh-action@master
-      with:
-        host: ${{ secrets.HOST }}
-        username: ${{ secrets.USERNAME }}
-        password: ${{ secrets.PASSWORD }}
-        port: ${{ secrets.PORT }}  
-        script: ~/deploy_sciviscourse
+      - name: deploy_ssh
+      - uses: garygrossgarten/github-action-ssh@release
+        with:
+          command: ~/deploy_sciviscourse
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.USERNAME }}
+          privateKey: ${{ secrets.KEY }}
+    
