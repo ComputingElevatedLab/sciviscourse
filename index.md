@@ -47,7 +47,7 @@ permalink: /
     <div class="card">
       <div class="card-body">
         <h6 class="card-title">Office hours</h6>
-        <p class="card-text">Wed-Thu 3-4PM</p>
+        <p class="card-text">Wed-Thu 3-4PM (WEB 4660)</p>
       </div>
     </div>
   </div>
