@@ -37,44 +37,44 @@
   image: ../images/schedule/visus.jpg
   description: Multi-resolution data formats, data streaming model, interactive analysis and visualization of large scientific data. <br/><a href="https://mybinder.org/v2/gh/spetruzza/sciviscourse/master?filepath=jupyter%2FOpenVisus-Tutorial.ipynb">[Live tutorial]</a>
 
-- name: Computer Graphics Techniques for Scientific Visualization (1)
+- name: No class
   date: Monday, Feb 3
-  description: Rendering primitives, shading, orthographic vs. perspective projections
-  image: ../images/schedule/primitives.jpg
-
-- name: Computer Graphics Techniques for Scientific Visualization (2)
+  description: No class, due to weather conditions
+  dayoff: true
+  
+- name: Visualization of 3D scalar fields (1-2)
   date: Wednesday, Feb 5
-  description: Rasterization, illumination, non-photorealistic rendering.
-  image: ../images/schedule/shadows.jpg
-
-- name: Visualization of 3D scalar fields (1)
-  date: Monday, Feb 10
   description: Computation of isosurfaces, the marchine cube algorithm, trilinear interpolation, resolution of ambiguities.
   image: ../images/schedule/isosurf.jpg
 
-- name: Visualization of 3D scalar fields (2)
-  date: Wednesday, Feb 12
-  description: Isosurface computation for tetrahedral meshes, mesh quality, optimal computation with range queries and seed sets.  
-  image: ../images/schedule/isosurface.jpg
+- name: Visualization of 3D scalar fields (3)
+  date: Monday, Feb 10
+  description: Advanced surface visualization, scalability, acceleration data structures, view dependent data reduction.
+  image: ../images/schedule/kdtree.jpg
 
+- name: Vector field visualization (1) 
+  date: Wednesday, Feb 12
+  description: Introduction to vector fields, 2D vector field representation, integration methods, 4th order Runge-Kutta method.
+  image: ../images/schedule/vectorfields.jpg
+  
 - name: Presidents’ Day Holiday
   date: Monday, Feb 17
   description: No class.
   dayoff: true
 
-- name: Visualization of 3D scalar fields (2)
+- name: Vector field visualization (2)
   date: Wednesday, Feb 19
-  description: Advanced surface visualization, scalability, acceleration data structures, view dependent data reduction.
-  image: ../images/schedule/kdtree.jpg
+  description: Seeding streamlines, Line Integral of Convolution (LIC), 3D LIC, illumination and depth cues.
+  image: ../images/schedule/streamlines.jpg
 
-- name: Direct Volume Rendering (1)
+- name: Computer graphics technics for scientific visualization (1-2)
   date: Monday, Feb 24
-  description: Volume rendering, compositing, modeling light, ray casting.
+  description: Rendering primitives, shading, orthographic vs. perspective projections. Rendering primitives, shading, orthographic vs. perspective projections
   image: ../images/schedule/vrendering.jpg
 
-- name: Direct Volume Rendering (2)
+- name: Direct Volume Rendering (1-2)
   date: Wednesday, Feb 26
-  description: Transfer functions for 3D data, volume classification, multi-dimensional transfer functions.
+  description: Volume rendering, compositing, modeling light, ray casting. Transfer functions for 3D data, volume classification, multi-dimensional transfer functions.
   image: ../images/schedule/transferfunction.jpg
 
 - name: Vector field visualization (1) 
@@ -97,60 +97,60 @@
   description: No class.
   dayoff: true
 
-- name: Vector field visualization (3) 
-  date: Monday, Mar 16
-  description: Streamlines vs streaklines vs pathlines, critical points, topological skeleton, 
-  image: ../images/schedule/flows.jpg
-
 - name: Tensor field visualization
-  date: Wednesday, Mar 18
+  date: Monday, Mar 16
   description: Tensor in engineering and medicine, diffusion tensor imaging, eigenvalues and eigenvectors, direct visualization methods.
   image: ../images/schedule/tensors.jpg
 
 - name: Tensor field visualization (2)
-  date: Monday, Mar 23
+  date: Wednesday, Mar 18
   description: Glyphs for tensors, ellypsoids vs superquadrics, color coding and lit-tensors.
   image: ../images/schedule/tensors2.jpg
 
 - name: Perception 1 
-  date: Wednesday, Mar 25
+  date: Monday, Mar 23
   description: Cognitive neuroscience, optical illusions, the human visual system, Cornsweet Illusion.
   image: ../images/schedule/perception.jpg
 
-- name: Perception 2
-  date: Monday, Mar 30
+- name: Perception 2 
+  date: Wednesday, Mar 25
   description: CIE Chromaticity Diagram, color spaces, color deficiencies, patterns, continuty, and closure.
   image: ../images/schedule/cie.jpg
-    
+  
 - name: Virtual environments
-  date: Wednesday, Apr 1
+  date: Monday, Mar 30
   description: The cave and other immersive enviroments, tasks benefiting from VR, applications in neuroscience and metrology.
   image: ../images/schedule/vrneurons.jpg
     
 - name: Uncertainty visualization (1)
-  date: Monday, Apr 6
+  date: Wednesday, Apr 1
   description: Visualization of error and uncertaintly, the boxplot and its modifications, topological uncertainty.
   image: ../images/schedule/uncertainty1.jpg
     
 - name: Uncertainty visualization (2)
-  date: Wednesday, Apr 8  
+  date: Monday, Apr 6
   description: Isosurface uncertainty, volume rendering uncertainty, ensemble curved boxplot.  
   image: ../images/schedule/uncertainty.jpg
-
+  
 - name: Big data (1)
-  date: Monday, Apr 13
+  date: Wednesday, Apr 8  
   description: The four V's of big data, isosurfaces of big data, data layouts for visualization of big data experiemnts and simulations.
   image: ../images/schedule/bigdatatopo.jpg
 
 - name: Big data (2)
-  date: Wednesday, Apr 15
+  date: Monday, Apr 13
   description: Multi-resolution data structures, parallel visualization, image compositing for volume rendering. 
   image: ../images/schedule/bigdata2.jpg
 
 - name: Visualization Research Challenges
-  date: Monday, Apr 20
+  date: Wednesday, Apr 15
   description: In situ analysis and visualization, post hoc data exploration, data quality, and data reduction.
   image: ../images/schedule/challenges.jpg
+
+- name: TBD
+  date: Monday, Apr 20
+  #description: In situ analysis and visualization, post hoc data exploration, data quality, and data reduction.
+  #image: ../images/schedule/challenges.jpg
 
 - name: Reading Day  (no class)
   date: Wednesday, Apr 22
