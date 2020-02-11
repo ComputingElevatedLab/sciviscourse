@@ -53,7 +53,7 @@
   image: ../images/schedule/kdtree.jpg
 
 - name: Direct Volume Rendering (1)
-  date: Monday, Feb 12
+  date: Wednesday, Feb 12
   description: Volume rendering, compositing, modeling light, ray casting.
   image: ../images/schedule/vrendering.jpg
 
