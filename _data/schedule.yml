@@ -77,6 +77,11 @@
   description: Rasterization, illumination, non-photorealistic rendering.
   image: ../images/schedule/shadows.jpg
 
+#- name: Direct Volume Rendering (2)
+#  date: Wednesday, Feb 19
+#  description: Transfer functions for 3D data, volume classification, multi-dimensional transfer functions.
+#  image: ../images/schedule/transferfunction.jpg
+  
 - name: Vector field visualization (1) 
   date: Monday, Mar 2
   description: Introduction to vector fields, 2D vector field representation, integration methods, 4th order Runge-Kutta method.
