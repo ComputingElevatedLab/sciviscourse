@@ -52,9 +52,9 @@
   description: Advanced surface visualization, scalability, acceleration data structures, view dependent data reduction.
   image: ../images/schedule/kdtree.jpg
 
-- name: Direct Volume Rendering (1)
+- name: First homework solution discussion
   date: Wednesday, Feb 12
-  description: Volume rendering, compositing, modeling light, ray casting.
+  description: Present solution for first homework and discussions
   image: ../images/schedule/vrendering.jpg
 
 - name: Presidents’ Day Holiday
@@ -62,10 +62,10 @@
   description: No class.
   dayoff: true
 
-- name: Direct Volume Rendering (2)
+- name: Direct Volume Rendering (1)
   date: Wednesday, Feb 19
-  description: Transfer functions for 3D data, volume classification, multi-dimensional transfer functions.
-  image: ../images/schedule/transferfunction.jpg
+  description: Volume rendering, compositing, modeling light, ray casting.
+  image: ../images/schedule/vrendering.jpg
 
 - name: Computer Graphics Techniques for Scientific Visualization (1)
   date: Monday, Feb 24
