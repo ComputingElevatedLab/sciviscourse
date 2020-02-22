@@ -31,7 +31,7 @@ In grading the projects, we will be looking for a well-designed, substantial, in
 
 Please hand in your Project Proposal by **March 1st, 11:59pm** (or sooner). It should contain the
 following information.
-* Team Names: Project title:
+* Team Member Names: Project title:
 * Give an overview of the project.
 * Why is this project important and/or interesting?
 * What are the objectives of the project? What are the questions you want to answer?
