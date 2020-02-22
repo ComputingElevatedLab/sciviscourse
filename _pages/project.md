@@ -12,9 +12,7 @@ It is your responsibility to pitch your project at the appropriate level. Challe
 You will work together with 2-3 classmates. You can create your own teams or we can help form a team. 
 
 ### Due dates
-Project team created **due TBD** 
-
-Project description **due TBD** 
+Project team creation and proposal **due March 1st** 
 
 Project progress report **due TBD** 
 
@@ -22,9 +20,7 @@ Final project write up is **due TBD**
 
 Project presentations will be on **TBD**
 
-On **TBD**, you will create your 2-3 person project teams.
-
-On **TBD** your project design report is due. This should be a well thought out, well-written 3-4 page description of your proposed project. It should outline any necessary background, specifically what goals you plan on accomplishing, and what you will need to do in order to accomplish your goals. You will also need to include what software/hardware you plan to use, and what you intend to hand in (i.e. what are the “deliverables”?). See below for details about the project design report.
+On **March 1st**, you will create your 2-3 person project teams and submit your project proposal. This should be a well thought out, well-written 2-3 page description of your proposed project. It should outline any necessary background, specifically what goals you plan on accomplishing, and what you will need to do in order to accomplish your goals. You will also need to include what software/hardware you plan to use, and what you intend to hand in (i.e. what are the “deliverables”?). See below for details about the project design report.
 
 On **TBD** your project progress report is due. This report should contain a description of how much of your project is completed at this point and what still remains to be done. This is the time to make modifications (which you must justify) and present a timeline for completion of the project. See below for details about the project progress report.
 
