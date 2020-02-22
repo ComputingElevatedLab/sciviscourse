@@ -38,7 +38,7 @@ following information.
 * What would you like to learn by completing this project?
 * What data will you be using for your project?
 * If you are doing a programming project, list the hardware and software you will be using.
-* What is your project schedule? What will do to complete this project? Be as specific as possible.
+* What is your project schedule? What will you do to complete this project? Be as specific as possible.
 * When the project is completed, what are the metrics to be used to evaluate how successful your project is?
 * What are the expected outcomes of your proposed project? What do you plan to hand in? (e.g. source code, video demo, etc.)
 * Any other useful information.
