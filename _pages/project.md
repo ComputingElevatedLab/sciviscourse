@@ -9,7 +9,7 @@ title: Project
 Your scientific visualization project can be (1) from simulation and/or experimental data you have or (2) development of new software tools or extending existing software tools.
 It is your responsibility to pitch your project at the appropriate level. Challenge, but do not exhaust, yourself. Please ensure that even if you underestimate the difficulty of your project, you will have something to hand in by the due date (choosing too difficult a project is not a valid reason for an incomplete).
 
-You will work together with 2-3 classmates. You can create your own teams or we can help form a team. 
+You will work together with 2-3 classmates. 
 
 ### Due dates
 Project team creation and Proposal **due March 1st, 11:59pm** 
@@ -51,7 +51,7 @@ Student Name(s): Project title:
 * What have you completed?
 * Create a list of what still needs to be done on the project and estimate the effort each item will take to complete.
 * Have you had to make any changes in your project description? If so, please list and justify the changes.
-* Any additional information?
+* Any additional information.
 
 ## Project Final Report
 You will be required to hand in your Project Final Report on **TBD**. Your final report should
