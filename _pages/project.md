@@ -12,7 +12,7 @@ It is your responsibility to pitch your project at the appropriate level. Challe
 You will work together with 2-3 classmates. You can create your own teams or we can help form a team. 
 
 ### Due dates
-Project team creation and proposal **due March 1st** 
+Project team creation and Proposal **due March 1st, 11:59pm** 
 
 Project progress report **due TBD** 
 
@@ -20,16 +20,16 @@ Final project write up is **due TBD**
 
 Project presentations will be on **TBD**
 
-On **March 1st**, you will create your 2-3 person project teams and submit your project proposal. This should be a well thought out, well-written 2-3 page description of your proposed project. It should outline any necessary background, specifically what goals you plan on accomplishing, and what you will need to do in order to accomplish your goals. You will also need to include what software/hardware you plan to use, and what you intend to hand in (i.e. what are the “deliverables”?). See below for details about the project design report.
+By **March 1st, 11:59pm**, you should create your 2-3 person project teams and submit your project proposal on canvas. This should be a well thought out, well-written 2-3 page description of your proposed project. It should outline any necessary background, specifically what goals you plan on accomplishing, and what you will need to do in order to accomplish your goals. You will also need to include what software/hardware you plan to use, and what you intend to hand in (i.e. what are the “deliverables”?). See below for details about the project proposal.
 
 On **TBD** your project progress report is due. This report should contain a description of how much of your project is completed at this point and what still remains to be done. This is the time to make modifications (which you must justify) and present a timeline for completion of the project. See below for details about the project progress report.
 
 On **TBD** your final project report is due. See below for details on writing your final project.
 In grading the projects, we will be looking for a well-designed, substantial, interesting project. Furthermore, your implementation, content and style of the final results should be of high quality. A final criteria for grading is that the progress report and final report are handed in on time.
 
-## Project Design Report
+## Project Proposal
 
-Please hand in your Project Design Report by **TBD** (or sooner). It should contain the
+Please hand in your Project Proposal by **March 1st, 11:59pm** (or sooner). It should contain the
 following information.
 * Team Names: Project title:
 * Give an overview of the project.
