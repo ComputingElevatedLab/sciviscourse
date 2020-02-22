@@ -20,7 +20,7 @@ Final project write up is **due TBD**
 
 Project presentations will be on **TBD**
 
-By **March 1st, 11:59pm**, you should create your 2-3 person project teams and submit your project proposal on canvas. This should be a well thought out, well-written 2-3 page description of your proposed project. It should outline any necessary background, specifically what goals you plan on accomplishing, and what you will need to do in order to accomplish your goals. You will also need to include what software/hardware you plan to use, and what you intend to hand in (i.e. what are the “deliverables”?). See below for details about the project proposal.
+By **March 1st, 11:59pm**, you should create your 2-3 person project team and submit your project proposal on canvas. This should be a well thought out, well-written 2-3 page description of your proposed project. It should outline any necessary background, specifically what goals you plan on accomplishing, and what you will need to do in order to accomplish your goals. You will also need to include what software/hardware you plan to use, and what you intend to hand in (i.e. what are the “deliverables”?). See below for details about the project proposal.
 
 On **TBD** your project progress report is due. This report should contain a description of how much of your project is completed at this point and what still remains to be done. This is the time to make modifications (which you must justify) and present a timeline for completion of the project. See below for details about the project progress report.
 
