@@ -55,7 +55,6 @@
 - name: First homework solution discussion
   date: Wednesday, Feb 12
   description: Present solution for first homework and discussions
-  image: ../images/schedule/vrendering.jpg
 
 - name: Presidents’ Day Holiday
   date: Monday, Feb 17
@@ -77,20 +76,14 @@
   description: Rasterization, illumination, non-photorealistic rendering.
   image: ../images/schedule/shadows.jpg
 
-#- name: Direct Volume Rendering (2)
-#  date: Wednesday, Feb 19
-#  description: Transfer functions for 3D data, volume classification, multi-dimensional transfer functions.
-#  image: ../images/schedule/transferfunction.jpg
-  
-- name: Vector field visualization (1) 
+- name: Second homework solution discussion
   date: Monday, Mar 2
-  description: Introduction to vector fields, 2D vector field representation, integration methods, 4th order Runge-Kutta method.
-  image: ../images/schedule/vectorfields.jpg
+  description: Solution second homework
 
-- name: Vector field visualization (2)
+- name: Direct Volume Rendering (2)
   date: Wednesday, Mar 4
-  description: Seeding streamlines, Line Integral of Convolution (LIC), 3D LIC, illumination and depth cues.
-  image: ../images/schedule/streamlines.jpg
+  description: Solution second homework, Transfer functions for 3D data, volume classification, multi-dimensional transfer functions.
+  image: ../images/schedule/transferfunction.jpg
 
 - name: Spring break
   date: Monday, Mar 9
@@ -102,20 +95,30 @@
   description: No class.
   dayoff: true
 
-- name: Vector field visualization (3) 
+- name: Vector field visualization (1) 
   date: Monday, Mar 16
-  description: Streamlines vs streaklines vs pathlines, critical points, topological skeleton, 
-  image: ../images/schedule/flows.jpg
+  description: Introduction to vector fields, 2D vector field representation, integration methods, 4th order Runge-Kutta method.
+  image: ../images/schedule/vectorfields.jpg
+
+- name: Vector field visualization (2,3)
+  date: Wednesday, Mar 18
+  description: Seeding streamlines, Line Integral of Convolution (LIC), 3D LIC, illumination and depth cues.
+  image: ../images/schedule/streamlines.jpg
+  
+#- name: Vector field visualization (3) 
+#  date: Monday, Mar 16
+#  description: Streamlines vs streaklines vs pathlines, critical points, topological skeleton, 
+#  image: ../images/schedule/flows.jpg
 
 - name: Tensor field visualization
-  date: Wednesday, Mar 18
+  date: Monday, Mar 23
   description: Tensor in engineering and medicine, diffusion tensor imaging, eigenvalues and eigenvectors, direct visualization methods.
   image: ../images/schedule/tensors.jpg
 
-- name: Tensor field visualization (2)
-  date: Monday, Mar 23
-  description: Glyphs for tensors, ellypsoids vs superquadrics, color coding and lit-tensors.
-  image: ../images/schedule/tensors2.jpg
+#- name: Tensor field visualization 
+#  date: Monday, Mar 23
+#  description: Glyphs for tensors, ellypsoids vs superquadrics, color coding and lit-tensors.
+#  image: ../images/schedule/tensors2.jpg
 
 - name: Perception 1 
   date: Wednesday, Mar 25
