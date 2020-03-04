@@ -82,7 +82,7 @@
 
 - name: Direct Volume Rendering (2)
   date: Wednesday, Mar 4
-  description: Solution second homework, Transfer functions for 3D data, volume classification, multi-dimensional transfer functions.
+  description: Transfer functions for 3D data, volume classification, multi-dimensional transfer functions.
   image: ../images/schedule/transferfunction.jpg
 
 - name: Spring break
