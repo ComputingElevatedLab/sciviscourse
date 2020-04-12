@@ -14,17 +14,15 @@ You will work together with 2-3 classmates.
 ### Due dates
 Project team creation and Proposal **due March 1st, 11:59pm** 
 
-Project progress report **due TBD** 
+Project progress report **due April 16th, 11:59pm** 
 
-Final project write up is **due TBD** 
-
-Project presentations will be on **TBD**
+Final project write up is **due May 2nd, 11:59pm** 
 
 By **March 1st, 11:59pm**, you should create your 2-3 person project teams and submit your project proposal on canvas. This should be a well thought out, well-written 2-3 page description of your proposed project. It should outline any necessary background, specifically what goals you plan on accomplishing, and what you will need to do in order to accomplish your goals. You will also need to include what software/hardware you plan to use, and what you intend to hand in (i.e. what are the “deliverables”?). See below for details about the project proposal.
 
-On **TBD** your project progress report is due. This report should contain a description of how much of your project is completed at this point and what still remains to be done. This is the time to make modifications (which you must justify) and present a timeline for completion of the project. See below for details about the project progress report.
+On **April 16th, 11:59pm** your project progress report is due. This report should contain a description of how much of your project is completed at this point and what still remains to be done. This is the time to make modifications (which you must justify) and present a timeline for completion of the project. See below for details about the project progress report.
 
-On **TBD** your final project report is due. See below for details on writing your final project.
+On **May 2nd, 11:59pm** your final project report is due. See below for details on writing your final project.
 In grading the projects, we will be looking for a well-designed, substantial, interesting project. Furthermore, your implementation, content and style of the final results should be of high quality. A final criteria for grading is that the progress report and final report are handed in on time.
 
 ## Project Proposal
@@ -44,7 +42,7 @@ following information.
 * Any other useful information.
 
 ## Project Progress Report
-Please hand in your Project Progress Report by **TBD** or sooner. It should contain the
+Please hand in your Project Progress Report by **April 16th, 11:59pm** or sooner. It should contain the
 following information.
 Student Name(s): Project title:
 * Estimate the percentage of the overall project you have completed thus far.
@@ -54,7 +52,7 @@ Student Name(s): Project title:
 * Any additional information.
 
 ## Project Final Report
-You will be required to hand in your Project Final Report on **TBD**. Your final report should
+You will be required to hand in your Project Final Report on **May 2nd, 11:59pm**. Your final report should
 contain the following information.
 team Names: Project title:
 * Overview and goals of your project.
@@ -63,6 +61,13 @@ team Names: Project title:
 * Discuss the implementation details of your project.
 * Outline what you learned from doing this project.
 * If you have not accomplished all the goals of your project, or if you have exceeded them, describe how the finished project differs form the description in your project design.
+* Describe how you distributed the work among the members of your team
 * Evaluate your project: how successful do you think it was? What are the strengths and weaknesses of your project?
 * Provide additional comments useful in evaluating your project.
+
+Due to the current COVID-19 situation we will not be able to meet for a final presentation. Hence, in addition to the report you are required to submit also:
+* a set of slides
+* project material (e.g., code, data) which could allow to reproduce your work
+* a video presentation of your project (with narration)
+* any additional material (e.g., website)
 
