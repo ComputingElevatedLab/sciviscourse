@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - visus
 dependencies:
-  - python=3.9
+  - python=3.6
   - numpy
   - matplotlib
   - OpenVisus==2.1.112
