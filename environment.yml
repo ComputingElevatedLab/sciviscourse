@@ -6,6 +6,6 @@ dependencies:
   - python=3.6
   - numpy
   - matplotlib
-  - OpenVisus==2.1.112
+  - OpenVisus
   - vtk
   - itkwidgets
