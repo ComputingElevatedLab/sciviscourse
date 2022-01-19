@@ -8,6 +8,6 @@ dependencies:
   - matplotlib
   - OpenVisus
   - vtk
-  - panda
+  - pandas
   - bokeh
   - itkwidgets
