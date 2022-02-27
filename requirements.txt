@@ -1,0 +1,9 @@
+numpy
+matplotlib
+OpenVisus
+vtk
+bokeh
+pyvista
+panel
+pandas
+itkwidgets
