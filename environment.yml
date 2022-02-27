@@ -1,6 +1,5 @@
 name: visus-environment
 channels:
-  - conda-forge
   - visus
 dependencies:
   - python=3.6
@@ -9,5 +8,7 @@ dependencies:
   - OpenVisus
   - vtk
   - bokeh
+  - pyvista
+  - panel
   - pandas
   - itkwidgets
