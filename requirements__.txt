@@ -1,12 +1,9 @@
-tqdm
-hypothesis
-rtree
-lxml
-pyct
 numpy
 matplotlib
 OpenVisus
+vtk
+bokeh
+pyvista
 panel
 pandas
 itkwidgets
-bokeh
