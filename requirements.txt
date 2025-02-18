@@ -10,3 +10,6 @@ panel
 pandas
 itkwidgets
 bokeh
+boto3
+xmltodict
+openvisuspy
